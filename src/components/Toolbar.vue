@@ -1,6 +1,6 @@
 <script lang="ts">
 import Vue from 'vue';
-import { createToolbar, DomEditor } from '@wangeditor/editor';
+import { createToolbar, DomEditor } from '@wangeditor-next/editor';
 
 export default Vue.extend({
   name: 'Toolbar',
